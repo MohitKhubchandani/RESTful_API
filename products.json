@@ -1,0 +1,152 @@
+[
+  {
+    "name": "rtx 3080",
+    "price": 699,
+    "company": "nvidia"
+  },
+  {
+    "name": "rtx 3070",
+    "price": 499,
+    "company": "nvidia"
+  },
+  {
+    "name": "rtx 3090",
+    "price": 1499,
+    "company": "nvidia"
+  },
+  {
+    "name": "nvidia shield tv",
+    "price": 149,
+    "company": "nvidia"
+  },
+  {
+    "name": "nvidia geforce rtx 4090",
+    "price": 1599,
+    "company": "nvidia"
+  },
+  {
+    "name": "macbook pro",
+    "price": 2399,
+    "company": "apple"
+  },
+  {
+    "name": "macbook air",
+    "price": 999,
+    "company": "apple"
+  },
+  {
+    "name": "iphone 15",
+    "price": 999,
+    "company": "apple"
+  },
+  {
+    "name": "ipad pro",
+    "price": 799,
+    "company": "apple"
+  },
+  {
+    "name": "apple watch series 7",
+    "price": 399,
+    "company": "apple"
+  },
+  {
+    "name": "airpods pro",
+    "price": 249,
+    "company": "apple"
+  },
+  {
+    "name": "tesla model s",
+    "price": 79999,
+    "company": "tesla"
+  },
+  {
+    "name": "tesla model x",
+    "price": 89999,
+    "company": "tesla"
+  },
+  {
+    "name": "tesla model 3",
+    "price": 39999,
+    "company": "tesla"
+  },
+  {
+    "name": "tesla model y",
+    "price": 49999,
+    "company": "tesla"
+  },
+  {
+    "name": "tesla cybertruck",
+    "price": 49999,
+    "company": "tesla"
+  },
+  {
+    "name": "hp spectre x360",
+    "price": 1499,
+    "company": "hp"
+  },
+  {
+    "name": "hp omen 15",
+    "price": 1999,
+    "company": "hp"
+  },
+  {
+    "name": "hp envy 13",
+    "price": 899,
+    "company": "hp"
+  },
+  {
+    "name": "hp pavilion 14",
+    "price": 649,
+    "company": "hp"
+  },
+  {
+    "name": "hp elite dragonfly",
+    "price": 1699,
+    "company": "hp"
+  },
+  {
+    "name": "hp chromebook x360",
+    "price": 599,
+    "company": "hp"
+  },
+  {
+    "name": "tesla roadster",
+    "price": 200000,
+    "company": "tesla"
+  },
+  {
+    "name": "mac mini",
+    "price": 699,
+    "company": "apple"
+  },
+  {
+    "name": "mac studio",
+    "price": 1999,
+    "company": "apple"
+  },
+  {
+    "name": "apple tv 4k",
+    "price": 179,
+    "company": "apple"
+  },
+  {
+    "name": "tesla powerwall",
+    "price": 7500,
+    "company": "tesla"
+  },
+  {
+    "name": "hp deskjet printer",
+    "price": 99,
+    "company": "hp"
+  },
+  {
+    "name": "nvidia quadro rtx 8000",
+    "price": 5500,
+    "company": "nvidia"
+  },
+  {
+    "name": "nvidia tesla k80",
+    "price": 3000,
+    "company": "nvidia"
+  }
+]
